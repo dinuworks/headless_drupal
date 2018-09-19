@@ -1,0 +1,14 @@
+uuid: 09e109ff-a03b-42a7-b52c-c5180b431d46
+name: 'Headless Drupal'
+mail: dineshp@digitalapicraft.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI
